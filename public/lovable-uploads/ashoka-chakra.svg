@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g fill="#0055B7">
+    <circle cx="50" cy="50" r="45" fill="none" stroke="#0055B7" stroke-width="2.5"/>
+    
+    <!-- 24 spokes -->
+    <rect x="48.5" y="5" width="3" height="90" />
+    <rect x="48.5" y="5" width="3" height="90" transform="rotate(15, 50, 50)" />
+    <rect x="48.5" y="5" width="3" height="90" transform="rotate(30, 50, 50)" />
+    <rect x="48.5" y="5" width="3" height="90" transform="rotate(45, 50, 50)" />
+    <rect x="48.5" y="5" width="3" height="90" transform="rotate(60, 50, 50)" />
+    <rect x="48.5" y="5" width="3" height="90" transform="rotate(75, 50, 50)" />
+    <rect x="48.5" y="5" width="3" height="90" transform="rotate(90, 50, 50)" />
+    <rect x="48.5" y="5" width="3" height="90" transform="rotate(105, 50, 50)" />
+    <rect x="48.5" y="5" width="3" height="90" transform="rotate(120, 50, 50)" />
+    <rect x="48.5" y="5" width="3" height="90" transform="rotate(135, 50, 50)" />
+    <rect x="48.5" y="5" width="3" height="90" transform="rotate(150, 50, 50)" />
+    <rect x="48.5" y="5" width="3" height="90" transform="rotate(165, 50, 50)" />
+    
+    <!-- Inner circle -->
+    <circle cx="50" cy="50" r="10" fill="#0055B7" />
+    
+    <!-- Outer rim details -->
+    <circle cx="50" cy="50" r="45" fill="none" stroke="#0055B7" stroke-width="5"/>
+    <circle cx="50" cy="50" r="40" fill="none" stroke="#0055B7" stroke-width="1.5"/>
+  </g>
+</svg> 
